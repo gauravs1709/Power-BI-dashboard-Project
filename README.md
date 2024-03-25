@@ -1,2 +1,2 @@
 # Power-BI-dashboard-Project
-this is power bi project based on indian election data analysis.
+This is power bi Dashboard based on indian election data analysis.
